@@ -8,4 +8,3 @@ function sum(m, n) {
   // By Roman Paidem
   return m + n;
 }
-alert(sum(2, 5));
