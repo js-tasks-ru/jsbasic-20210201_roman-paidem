@@ -5,5 +5,6 @@
  * @returns {number}
  */
 function sum(m, n) {
-  // ваш код...
+  // By Roman Paidem
+  return m + n;
 }
