@@ -5,9 +5,6 @@ function sumSalary(salaries) {
     if (isFinite(sal) === true) {
       sum += sal;
     }
-    else {
-      sum == 0;
-    }
   }
   return sum;
 }
